@@ -1,0 +1,12 @@
+.metadata/
+cli/target/
+cs/target/
+loja/target/
+catalogo/target/
+sd/target/
+cliente/
+commer/
+eur/target/
+lojaapp/
+pedido2/
+configserver/
